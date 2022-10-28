@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="FQw8ab2Lno5x91eKp0SW" name="Page-1">
+        <mxGraphModel dx="495" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="Area of a Pyramid" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="190" width="400" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="7">
+                    <mxGeometry x="295" y="50" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="60" y="95" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Length" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="87.5" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Width" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="110" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Height" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="130" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="60" y="117.5" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="60" y="140" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Formula &#10;V = (LWH)/3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="160" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Place value below" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="50" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="The area is: ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                    <mxGeometry y="190" width="90" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
