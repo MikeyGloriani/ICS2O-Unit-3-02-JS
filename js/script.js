@@ -16,16 +16,15 @@ if (navigator.serviceWorker) {
 /**
  * This function calculates area of a triangle
  */
- function calculate() {
+function calculate() {
   // input
   const length = parseFloat(document.getElementById("length").value)
   const width = parseFloat(document.getElementById("width").value)
   const height = parseFloat(document.getElementById("height").value)
 
   // process
-  const Volume = (length * width * height)/3
+  const Volume = (length * width * height) / 3
 
   // output
   document.getElementById("volume").innerHTML = "Volume is: " + Volume + " cm²"
 }
-
